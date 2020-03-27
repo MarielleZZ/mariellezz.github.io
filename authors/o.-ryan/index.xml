@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O. Ryan | Marielle Zondervan-Zwijnenburg</title>
+    <link>/authors/o.-ryan/</link>
+      <atom:link href="/authors/o.-ryan/index.xml" rel="self" type="application/rss+xml" />
+    <description>O. Ryan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>O. Ryan</title>
+      <link>/authors/o.-ryan/</link>
+    </image>
+    
+    <item>
+      <title>A Systematic Review of Bayesian Papers in Psychology: The Last 25 Years</title>
+      <link>/publication/vande-schoot-review/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/vande-schoot-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

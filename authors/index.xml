@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Marielle Zondervan-Zwijnenburg</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Mar 2020 13:24:56 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>A.I., Becht</title>
+      <link>/authors/a.i.-becht/</link>
+      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
+      <guid>/authors/a.i.-becht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A.J., Oldehinkel</title>
+      <link>/authors/a.j.-oldehinkel/</link>
+      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
+      <guid>/authors/a.j.-oldehinkel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Hartman</title>
+      <link>/authors/c.-hartman/</link>
+      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
+      <guid>/authors/c.-hartman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C.E.M., Van Beijsterveldt</title>
+      <link>/authors/c.e.m.-van-beijsterveldt/</link>
+      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
+      <guid>/authors/c.e.m.-van-beijsterveldt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D.I., Boomsma</title>
+      <link>/authors/d.i.-boomsma/</link>
+      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
+      <guid>/authors/d.i.-boomsma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E., Van Bergen</title>
+      <link>/authors/e.-van-bergen/</link>
+      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
+      <guid>/authors/e.-van-bergen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H.J.A., Hoijtink</title>
+      <link>/authors/h.j.a.-hoijtink/</link>
+      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
+      <guid>/authors/h.j.a.-hoijtink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M.A.J. Zondervan-Zwijnenburg</title>
+      <link>/authors/m.a.j.-zondervan-zwijnenburg/</link>
+      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
+      <guid>/authors/m.a.j.-zondervan-zwijnenburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M.H.J., Hillegers</title>
+      <link>/authors/m.h.j.-hillegers/</link>
+      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
+      <guid>/authors/m.h.j.-hillegers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N., Tamayo Martinez</title>
+      <link>/authors/n.-tamayo-martinez/</link>
+      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
+      <guid>/authors/n.-tamayo-martinez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S., Branje</title>
+      <link>/authors/s.-branje/</link>
+      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
+      <guid>/authors/s.-branje/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S.A., Barzeva</title>
+      <link>/authors/s.a.-barzeva/</link>
+      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
+      <guid>/authors/s.a.-barzeva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S.A.M. Veldkamp</title>
+      <link>/authors/s.a.m.-veldkamp/</link>
+      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
+      <guid>/authors/s.a.m.-veldkamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W., Meeus</title>
+      <link>/authors/w.-meeus/</link>
+      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
+      <guid>/authors/w.-meeus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Rijshouwer</title>
+      <link>/authors/d.-rijshouwer/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/d.-rijshouwer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. A. J. Zondervan-Zwijnenburg</title>
+      <link>/authors/m.-a.-j.-zondervan-zwijnenburg/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-a.-j.-zondervan-zwijnenburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Van de Schoot</title>
+      <link>/authors/r.-van-de-schoot/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-van-de-schoot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am passionate about working on the cutting edge between statistics and social sciences. My ambition is to enable social science researchers to use the best methods to optimally analyze their data and answer their research questions. My main expertises are: Bayesian evidence synthesis, longitudinal structural equation modeling, and informative priors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A. Neumann</title>
+      <link>/authors/a.-neumann/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-neumann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C.E.M. Beijsterveldt</title>
+      <link>/authors/c.e.m.-beijsterveldt/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/c.e.m.-beijsterveldt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Tiemeier</title>
+      <link>/authors/h.-tiemeier/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/h.-tiemeier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S.A. Nelemans</title>
+      <link>/authors/s.a.-nelemans/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/s.a.-nelemans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S.J.T. Branje</title>
+      <link>/authors/s.j.t.-branje/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/s.j.t.-branje/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W.H.J. Meeus</title>
+      <link>/authors/w.h.j.-meeus/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/w.h.j.-meeus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Margot Peeters</title>
+      <link>/authors/margot-peeters/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/margot-peeters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rens Van de Schoot</title>
+      <link>/authors/rens-van-de-schoot/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/rens-van-de-schoot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Depaoli</title>
+      <link>/authors/sarah-depaoli/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/sarah-depaoli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diederick Stoel</title>
+      <link>/authors/diederick-stoel/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/diederick-stoel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Duco Veen</title>
+      <link>/authors/duco-veen/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/duco-veen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. Hoijtink</title>
+      <link>/authors/h.-hoijtink/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/h.-hoijtink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Lek</title>
+      <link>/authors/k.-lek/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/k.-lek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M., Peeters</title>
+      <link>/authors/m.-peeters/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-peeters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O. Ryan</title>
+      <link>/authors/o.-ryan/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/o.-ryan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Depaoli</title>
+      <link>/authors/s.-depaoli/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-depaoli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S.D. Winter</title>
+      <link>/authors/s.d.-winter/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/s.d.-winter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W. Van de Schoot-Hubeek</title>
+      <link>/authors/w.-van-de-schoot-hubeek/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/w.-van-de-schoot-hubeek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joris J Broere</title>
+      <link>/authors/joris-j-broere/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/joris-j-broere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Koen H Perryck</title>
+      <link>/authors/koen-h-perryck/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/koen-h-perryck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nancy E Van Loey</title>
+      <link>/authors/nancy-e-van-loey/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/nancy-e-van-loey/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

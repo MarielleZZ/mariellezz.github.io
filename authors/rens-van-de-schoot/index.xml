@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rens Van de Schoot | Marielle Zondervan-Zwijnenburg</title>
+    <link>/authors/rens-van-de-schoot/</link>
+      <atom:link href="/authors/rens-van-de-schoot/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rens Van de Schoot</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Rens Van de Schoot</title>
+      <link>/authors/rens-van-de-schoot/</link>
+    </image>
+    
+    <item>
+      <title>Pushing the Limits: The Performance of Maximum Likelihood and Bayesian Estimation With Small and Unbalanced Samples in a Latent Growth Model</title>
+      <link>/publication/zondervan-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/zondervan-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proposal for a five-step method to elicit expert judgment</title>
+      <link>/publication/veen-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/veen-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing small data sets using Bayesian estimation: the case of posttraumatic stress symptoms following mechanical ventilation in burn survivors</title>
+      <link>/publication/schoot-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/schoot-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

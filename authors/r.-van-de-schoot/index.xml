@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Van de Schoot | Marielle Zondervan-Zwijnenburg</title>
+    <link>/authors/r.-van-de-schoot/</link>
+      <atom:link href="/authors/r.-van-de-schoot/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Van de Schoot</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>R. Van de Schoot</title>
+      <link>/authors/r.-van-de-schoot/</link>
+    </image>
+    
+    <item>
+      <title>Testing ANOVA Replications by Means of the Prior Predictive p-value</title>
+      <link>/utrecht-university.shinyapps.io/anovareplication/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/utrecht-university.shinyapps.io/anovareplication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Systematic Review of Bayesian Papers in Psychology: The Last 25 Years</title>
+      <link>/publication/vande-schoot-review/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/vande-schoot-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application and Evaluation of an Expert Judgment Elicitation Procedure for Correlations</title>
+      <link>/publication/zondervan-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/zondervan-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where do priors come from? Applying guidelines to construct informative priors in small sample research</title>
+      <link>/publication/zondervan-2017-rhd/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/zondervan-2017-rhd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

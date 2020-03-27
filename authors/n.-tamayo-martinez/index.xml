@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N., Tamayo Martinez | Marielle Zondervan-Zwijnenburg</title>
+    <link>/authors/n.-tamayo-martinez/</link>
+      <atom:link href="/authors/n.-tamayo-martinez/index.xml" rel="self" type="application/rss+xml" />
+    <description>N., Tamayo Martinez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Mar 2020 13:24:56 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>N., Tamayo Martinez</title>
+      <link>/authors/n.-tamayo-martinez/</link>
+    </image>
+    
+    <item>
+      <title>Effect of parental age on offspring’s neurodevelopment</title>
+      <link>/publication/veldkamp-zondervan-2020/</link>
+      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
+      <guid>/publication/veldkamp-zondervan-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

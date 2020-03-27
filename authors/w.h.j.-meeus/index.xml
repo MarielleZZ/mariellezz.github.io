@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>W.H.J. Meeus | Marielle Zondervan-Zwijnenburg</title>
+    <link>/authors/w.h.j.-meeus/</link>
+      <atom:link href="/authors/w.h.j.-meeus/index.xml" rel="self" type="application/rss+xml" />
+    <description>W.H.J. Meeus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>W.H.J. Meeus</title>
+      <link>/authors/w.h.j.-meeus/</link>
+    </image>
+    
+    <item>
+      <title>Parental Age and Offspring Childhood Mental Health: A Multi-Cohort, Population-Based Investigation</title>
+      <link>/publication/zondervan-2019-cd/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/zondervan-2019-cd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

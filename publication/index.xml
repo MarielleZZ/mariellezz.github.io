@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Marielle Zondervan-Zwijnenburg</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Mar 2020 13:24:56 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Effect of parental age on offspring’s neurodevelopment</title>
+      <link>/publication/veldkamp-zondervan-2020/</link>
+      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
+      <guid>/publication/veldkamp-zondervan-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing ANOVA Replications by Means of the Prior Predictive p-value</title>
+      <link>/utrecht-university.shinyapps.io/anovareplication/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/utrecht-university.shinyapps.io/anovareplication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Replication with Small Samples: Applications to ANOVA</title>
+      <link>/publication/zondervan-s-4/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/zondervan-s-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parental Age and Offspring Childhood Mental Health: A Multi-Cohort, Population-Based Investigation</title>
+      <link>/publication/zondervan-2019-cd/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/zondervan-2019-cd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Replication: Test Replications by Means of the Prior Predictive p-Value</title>
+      <link>/publication/replication-rpackage/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/replication-rpackage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ANOVAreplication: Test ANOVA Replications by Means of the Prior Predictive p-Value</title>
+      <link>/cran.r-project.org/packageanovareplication</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/cran.r-project.org/packageanovareplication</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pushing the Limits: The Performance of Maximum Likelihood and Bayesian Estimation With Small and Unbalanced Samples in a Latent Growth Model</title>
+      <link>/publication/zondervan-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/zondervan-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Systematic Review of Bayesian Papers in Psychology: The Last 25 Years</title>
+      <link>/publication/vande-schoot-review/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/vande-schoot-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application and Evaluation of an Expert Judgment Elicitation Procedure for Correlations</title>
+      <link>/publication/zondervan-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/zondervan-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>complexity: Calculate the Proportion of Permutations in Line with an Informative Hypothesis</title>
+      <link>/publication/complexity-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/complexity-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proposal for a five-step method to elicit expert judgment</title>
+      <link>/publication/veen-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/veen-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where do priors come from? Applying guidelines to construct informative priors in small sample research</title>
+      <link>/publication/zondervan-2017-rhd/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/zondervan-2017-rhd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing small data sets using Bayesian estimation: the case of posttraumatic stress symptoms following mechanical ventilation in burn survivors</title>
+      <link>/publication/schoot-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/schoot-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

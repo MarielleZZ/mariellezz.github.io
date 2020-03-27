@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. A. J. Zondervan-Zwijnenburg | Marielle Zondervan-Zwijnenburg</title>
+    <link>/authors/m.-a.-j.-zondervan-zwijnenburg/</link>
+      <atom:link href="/authors/m.-a.-j.-zondervan-zwijnenburg/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. A. J. Zondervan-Zwijnenburg</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>M. A. J. Zondervan-Zwijnenburg</title>
+      <link>/authors/m.-a.-j.-zondervan-zwijnenburg/</link>
+    </image>
+    
+    <item>
+      <title>Testing ANOVA Replications by Means of the Prior Predictive p-value</title>
+      <link>/utrecht-university.shinyapps.io/anovareplication/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/utrecht-university.shinyapps.io/anovareplication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing Replication with Small Samples: Applications to ANOVA</title>
+      <link>/publication/zondervan-s-4/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/zondervan-s-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parental Age and Offspring Childhood Mental Health: A Multi-Cohort, Population-Based Investigation</title>
+      <link>/publication/zondervan-2019-cd/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/zondervan-2019-cd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Replication: Test Replications by Means of the Prior Predictive p-Value</title>
+      <link>/publication/replication-rpackage/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/replication-rpackage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ANOVAreplication: Test ANOVA Replications by Means of the Prior Predictive p-Value</title>
+      <link>/cran.r-project.org/packageanovareplication</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/cran.r-project.org/packageanovareplication</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pushing the Limits: The Performance of Maximum Likelihood and Bayesian Estimation With Small and Unbalanced Samples in a Latent Growth Model</title>
+      <link>/publication/zondervan-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/zondervan-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>complexity: Calculate the Proportion of Permutations in Line with an Informative Hypothesis</title>
+      <link>/publication/complexity-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/complexity-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

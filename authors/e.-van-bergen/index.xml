@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E., Van Bergen | Marielle Zondervan-Zwijnenburg</title>
+    <link>/authors/e.-van-bergen/</link>
+      <atom:link href="/authors/e.-van-bergen/index.xml" rel="self" type="application/rss+xml" />
+    <description>E., Van Bergen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Mar 2020 13:24:56 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>E., Van Bergen</title>
+      <link>/authors/e.-van-bergen/</link>
+    </image>
+    
+    <item>
+      <title>Effect of parental age on offspring’s neurodevelopment</title>
+      <link>/publication/veldkamp-zondervan-2020/</link>
+      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
+      <guid>/publication/veldkamp-zondervan-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

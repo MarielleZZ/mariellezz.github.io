@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Marielle Zondervan-Zwijnenburg</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>Expert Elicitation</title>
+      <link>/tags/expert-elicitation/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/expert-elicitation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Historical Data</title>
+      <link>/tags/historical-data/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/historical-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Informative Priors</title>
+      <link>/tags/informative-priors/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/informative-priors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prior predictive p-value</title>
+      <link>/tags/prior-predictive-p-value/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/prior-predictive-p-value/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Replication Testing</title>
+      <link>/tags/replication-testing/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/replication-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Evidence Synthesis</title>
+      <link>/tags/bayesian-evidence-synthesis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/bayesian-evidence-synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Informative Hypotheses</title>
+      <link>/tags/informative-hypotheses/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/informative-hypotheses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Product BF</title>
+      <link>/tags/product-bf/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/product-bf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

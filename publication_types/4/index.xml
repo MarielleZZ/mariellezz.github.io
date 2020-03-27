@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Marielle Zondervan-Zwijnenburg</title>
+    <link>/publication_types/4/</link>
+      <atom:link href="/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>4</title>
+      <link>/publication_types/4/</link>
+    </image>
+    
+    <item>
+      <title>Replication: Test Replications by Means of the Prior Predictive p-Value</title>
+      <link>/publication/replication-rpackage/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/replication-rpackage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ANOVAreplication: Test ANOVA Replications by Means of the Prior Predictive p-Value</title>
+      <link>/cran.r-project.org/packageanovareplication</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/cran.r-project.org/packageanovareplication</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>complexity: Calculate the Proportion of Permutations in Line with an Informative Hypothesis</title>
+      <link>/publication/complexity-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/complexity-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

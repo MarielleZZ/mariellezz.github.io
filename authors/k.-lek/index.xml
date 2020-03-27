@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K. Lek | Marielle Zondervan-Zwijnenburg</title>
+    <link>/authors/k.-lek/</link>
+      <atom:link href="/authors/k.-lek/index.xml" rel="self" type="application/rss+xml" />
+    <description>K. Lek</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>K. Lek</title>
+      <link>/authors/k.-lek/</link>
+    </image>
+    
+    <item>
+      <title>Application and Evaluation of an Expert Judgment Elicitation Procedure for Correlations</title>
+      <link>/publication/zondervan-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/zondervan-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
