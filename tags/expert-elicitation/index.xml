@@ -17,7 +17,32 @@
       <link>/project/informative-priors/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/project/informative-priors/</guid>
-      <description></description>
+      <description>&lt;p&gt;Informative priors are a useful tool for researchers who (1) want to contribute to cumulative science, (2) need to deal with small samples, (3) want to avoid estimation issues that occur for some parameters with Bayesian default priors. More details on these topics can be found in the list of papers related to this project.&lt;/p&gt;
+&lt;p&gt;Below you can also find an introductory video that I made for a lecture about informative priors. Enjoy!
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;/img/my_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

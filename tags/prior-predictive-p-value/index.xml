@@ -17,7 +17,8 @@
       <link>/project/replication-testing/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/project/replication-testing/</guid>
-      <description></description>
+      <description>&lt;p&gt;There seemed to be a replication crisis in the field of psychology. Part of the crisis, however, is what we exactly mean with `replication&amp;rsquo; and how to test it. In the papers and book chapter attached to this project, I proposed to test replication of informative hypothesis with the prior predictive p-value. For this purpose, I designed two R-packages and a Shiny application.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

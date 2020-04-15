@@ -17,7 +17,32 @@
       <link>/project/informative-priors/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/project/informative-priors/</guid>
-      <description></description>
+      <description>&lt;p&gt;Informative priors are a useful tool for researchers who (1) want to contribute to cumulative science, (2) need to deal with small samples, (3) want to avoid estimation issues that occur for some parameters with Bayesian default priors. More details on these topics can be found in the list of papers related to this project.&lt;/p&gt;
+&lt;p&gt;Below you can also find an introductory video that I made for a lecture about informative priors. Enjoy!
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;/img/my_video.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -25,7 +50,8 @@
       <link>/project/replication-testing/</link>
       <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/project/replication-testing/</guid>
-      <description></description>
+      <description>&lt;p&gt;There seemed to be a replication crisis in the field of psychology. Part of the crisis, however, is what we exactly mean with `replication&amp;rsquo; and how to test it. In the papers and book chapter attached to this project, I proposed to test replication of informative hypothesis with the prior predictive p-value. For this purpose, I designed two R-packages and a Shiny application.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -33,7 +59,8 @@
       <link>/project/research-synthesis/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/research-synthesis/</guid>
-      <description></description>
+      <description>&lt;p&gt;Bayesian evidence synthesis (BES) provides a method to aggregate support from independent studies, without a need for harmonization of the data itself. With BES, the relative probability of a set of hypotheses is evaluated for each separate dataset. Only thereafter, the relative evidence is aggregated to find out which hypothesis is supported by all datasets simultaneously and is a measure of robust support. In the papers linked to this project, I applied this procedure to aggregate evidence from multiple cohort studies.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
