@@ -5,7 +5,7 @@
     <link>/authors/h.j.a.-hoijtink/</link>
       <atom:link href="/authors/h.j.a.-hoijtink/index.xml" rel="self" type="application/rss+xml" />
     <description>H.J.A., Hoijtink</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Aug 2020 13:34:35 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>H.J.A., Hoijtink</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Effect of parental age on offspring’s neurodevelopment</title>
-      <link>/publication/veldkamp-zondervan-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/veldkamp-zondervan-2020/</guid>
+      <title>Robust longitudinal multi-cohort results: The development of self-control during adolescence</title>
+      <link>/publication/zondervan-2020-self-control/</link>
+      <pubDate>Wed, 12 Aug 2020 13:34:35 +0200</pubDate>
+      <guid>/publication/zondervan-2020-self-control/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Robust longitudinal multi-cohort results: The development of self-control during adolescence</title>
-      <link>/publication/zondervan-2020-self-control/</link>
+      <title>Effect of parental age on offspring’s neurodevelopment</title>
+      <link>/publication/veldkamp-zondervan-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/zondervan-2020-self-control/</guid>
+      <guid>/publication/veldkamp-zondervan-2020/</guid>
       <description></description>
     </item>
     
