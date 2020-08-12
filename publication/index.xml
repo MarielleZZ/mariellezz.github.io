@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Mar 2020 13:24:56 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Aug 2020 13:34:35 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Robust longitudinal multi-cohort results: The development of self-control during adolescence</title>
+      <link>/publication/zondervan-self-control/</link>
+      <pubDate>Wed, 12 Aug 2020 13:34:35 +0200</pubDate>
+      <guid>/publication/zondervan-self-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Effect of parental age on offspring’s neurodevelopment</title>
       <link>/publication/veldkamp-zondervan-2020/</link>
-      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/veldkamp-zondervan-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust longitudinal multi-cohort results: The development of self-control during adolescence</title>
+      <link>/publication/zondervan-2020-self-control/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/zondervan-2020-self-control/</guid>
       <description></description>
     </item>
     

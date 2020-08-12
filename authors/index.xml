@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Mar 2020 13:24:56 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Aug 2020 13:34:35 +0200</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -13,9 +13,89 @@
     </image>
     
     <item>
+      <title>A.I. and Hoijtink</title>
+      <link>/authors/a.i.-and-hoijtink/</link>
+      <pubDate>Wed, 12 Aug 2020 13:34:35 +0200</pubDate>
+      <guid>/authors/a.i.-and-hoijtink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A.J. and Branje</title>
+      <link>/authors/a.j.-and-branje/</link>
+      <pubDate>Wed, 12 Aug 2020 13:34:35 +0200</pubDate>
+      <guid>/authors/a.j.-and-branje/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D.I.</title>
+      <link>/authors/d.i./</link>
+      <pubDate>Wed, 12 Aug 2020 13:34:35 +0200</pubDate>
+      <guid>/authors/d.i./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H.J.A. and Oldehinkel</title>
+      <link>/authors/h.j.a.-and-oldehinkel/</link>
+      <pubDate>Wed, 12 Aug 2020 13:34:35 +0200</pubDate>
+      <guid>/authors/h.j.a.-and-oldehinkel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J.S. and Kevenaar</title>
+      <link>/authors/j.s.-and-kevenaar/</link>
+      <pubDate>Wed, 12 Aug 2020 13:34:35 +0200</pubDate>
+      <guid>/authors/j.s.-and-kevenaar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M.A.J. and Richards</title>
+      <link>/authors/m.a.j.-and-richards/</link>
+      <pubDate>Wed, 12 Aug 2020 13:34:35 +0200</pubDate>
+      <guid>/authors/m.a.j.-and-richards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. and Meeus</title>
+      <link>/authors/s.-and-meeus/</link>
+      <pubDate>Wed, 12 Aug 2020 13:34:35 +0200</pubDate>
+      <guid>/authors/s.-and-meeus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S.T. and Becht</title>
+      <link>/authors/s.t.-and-becht/</link>
+      <pubDate>Wed, 12 Aug 2020 13:34:35 +0200</pubDate>
+      <guid>/authors/s.t.-and-becht/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W. and Boomsma</title>
+      <link>/authors/w.-and-boomsma/</link>
+      <pubDate>Wed, 12 Aug 2020 13:34:35 +0200</pubDate>
+      <guid>/authors/w.-and-boomsma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zondervan-Zwijnenburg</title>
+      <link>/authors/zondervan-zwijnenburg/</link>
+      <pubDate>Wed, 12 Aug 2020 13:34:35 +0200</pubDate>
+      <guid>/authors/zondervan-zwijnenburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A.I., Becht</title>
       <link>/authors/a.i.-becht/</link>
-      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/a.i.-becht/</guid>
       <description></description>
     </item>
@@ -23,7 +103,7 @@
     <item>
       <title>A.J., Oldehinkel</title>
       <link>/authors/a.j.-oldehinkel/</link>
-      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/a.j.-oldehinkel/</guid>
       <description></description>
     </item>
@@ -31,7 +111,7 @@
     <item>
       <title>C. Hartman</title>
       <link>/authors/c.-hartman/</link>
-      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/c.-hartman/</guid>
       <description></description>
     </item>
@@ -39,88 +119,8 @@
     <item>
       <title>C.E.M., Van Beijsterveldt</title>
       <link>/authors/c.e.m.-van-beijsterveldt/</link>
-      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/c.e.m.-van-beijsterveldt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>D.I., Boomsma</title>
-      <link>/authors/d.i.-boomsma/</link>
-      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
-      <guid>/authors/d.i.-boomsma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E., Van Bergen</title>
-      <link>/authors/e.-van-bergen/</link>
-      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
-      <guid>/authors/e.-van-bergen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>H.J.A., Hoijtink</title>
-      <link>/authors/h.j.a.-hoijtink/</link>
-      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
-      <guid>/authors/h.j.a.-hoijtink/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M.A.J. Zondervan-Zwijnenburg</title>
-      <link>/authors/m.a.j.-zondervan-zwijnenburg/</link>
-      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
-      <guid>/authors/m.a.j.-zondervan-zwijnenburg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M.H.J., Hillegers</title>
-      <link>/authors/m.h.j.-hillegers/</link>
-      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
-      <guid>/authors/m.h.j.-hillegers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>N., Tamayo Martinez</title>
-      <link>/authors/n.-tamayo-martinez/</link>
-      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
-      <guid>/authors/n.-tamayo-martinez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S., Branje</title>
-      <link>/authors/s.-branje/</link>
-      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
-      <guid>/authors/s.-branje/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S.A., Barzeva</title>
-      <link>/authors/s.a.-barzeva/</link>
-      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
-      <guid>/authors/s.a.-barzeva/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S.A.M. Veldkamp</title>
-      <link>/authors/s.a.m.-veldkamp/</link>
-      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
-      <guid>/authors/s.a.m.-veldkamp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>W., Meeus</title>
-      <link>/authors/w.-meeus/</link>
-      <pubDate>Fri, 27 Mar 2020 13:24:56 +0000</pubDate>
-      <guid>/authors/w.-meeus/</guid>
       <description></description>
     </item>
     
@@ -133,6 +133,38 @@
     </item>
     
     <item>
+      <title>D.I., Boomsma</title>
+      <link>/authors/d.i.-boomsma/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/d.i.-boomsma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E., Van Bergen</title>
+      <link>/authors/e.-van-bergen/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/e.-van-bergen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H.J.A., Hoijtink</title>
+      <link>/authors/h.j.a.-hoijtink/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/h.j.a.-hoijtink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J.S. Richards</title>
+      <link>/authors/j.s.-richards/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/j.s.-richards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>M. A. J. Zondervan-Zwijnenburg</title>
       <link>/authors/m.-a.-j.-zondervan-zwijnenburg/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -141,10 +173,74 @@
     </item>
     
     <item>
+      <title>M.A.J. Zondervan-Zwijnenburg</title>
+      <link>/authors/m.a.j.-zondervan-zwijnenburg/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/m.a.j.-zondervan-zwijnenburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M.H.J., Hillegers</title>
+      <link>/authors/m.h.j.-hillegers/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/m.h.j.-hillegers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N., Tamayo Martinez</title>
+      <link>/authors/n.-tamayo-martinez/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/n.-tamayo-martinez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>R. Van de Schoot</title>
       <link>/authors/r.-van-de-schoot/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/r.-van-de-schoot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S., Branje</title>
+      <link>/authors/s.-branje/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-branje/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S.A., Barzeva</title>
+      <link>/authors/s.a.-barzeva/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/s.a.-barzeva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S.A.M. Veldkamp</title>
+      <link>/authors/s.a.m.-veldkamp/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/s.a.m.-veldkamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S.T. Kevenaar</title>
+      <link>/authors/s.t.-kevenaar/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/s.t.-kevenaar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W., Meeus</title>
+      <link>/authors/w.-meeus/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/w.-meeus/</guid>
       <description></description>
     </item>
     

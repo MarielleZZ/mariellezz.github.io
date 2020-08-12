@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M.A.J. and Richards | Marielle Zondervan-Zwijnenburg</title>
+    <link>/authors/m.a.j.-and-richards/</link>
+      <atom:link href="/authors/m.a.j.-and-richards/index.xml" rel="self" type="application/rss+xml" />
+    <description>M.A.J. and Richards</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Aug 2020 13:34:35 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>M.A.J. and Richards</title>
+      <link>/authors/m.a.j.-and-richards/</link>
+    </image>
+    
+    <item>
+      <title>Robust longitudinal multi-cohort results: The development of self-control during adolescence</title>
+      <link>/publication/zondervan-self-control/</link>
+      <pubDate>Wed, 12 Aug 2020 13:34:35 +0200</pubDate>
+      <guid>/publication/zondervan-self-control/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
