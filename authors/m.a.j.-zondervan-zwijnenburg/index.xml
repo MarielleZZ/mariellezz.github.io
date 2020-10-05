@@ -5,12 +5,20 @@
     <link>/authors/m.a.j.-zondervan-zwijnenburg/</link>
       <atom:link href="/authors/m.a.j.-zondervan-zwijnenburg/index.xml" rel="self" type="application/rss+xml" />
     <description>M.A.J. Zondervan-Zwijnenburg</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Aug 2020 13:34:35 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>M.A.J. Zondervan-Zwijnenburg</title>
       <link>/authors/m.a.j.-zondervan-zwijnenburg/</link>
     </image>
+    
+    <item>
+      <title>Exploring meaning in life through a brief photo-ethnographic intervention using Instagram: a Bayesian growth modelling approach</title>
+      <link>/publication/zyl-meaning-2020/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/zyl-meaning-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Robust longitudinal multi-cohort results: The development of self-control during adolescence</title>
@@ -27,14 +35,6 @@
       <link>/publication/veldkamp-zondervan-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/veldkamp-zondervan-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploring meaning in life through a brief photo-ethnographic intervention using Instagram: a Bayesian growth modelling approach</title>
-      <link>/publication/zyl-meaning-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/zyl-meaning-2020/</guid>
       <description></description>
     </item>
     

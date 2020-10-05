@@ -5,12 +5,44 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Aug 2020 13:34:35 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>I.L. Hulshof</title>
+      <link>/authors/i.l.-hulshof/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/i.l.-hulshof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L.E. van Zyl</title>
+      <link>/authors/l.e.-van-zyl/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/l.e.-van-zyl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L.R. Dickens</title>
+      <link>/authors/l.r.-dickens/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/l.r.-dickens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M.A.J. Zondervan-Zwijnenburg</title>
+      <link>/authors/m.a.j.-zondervan-zwijnenburg/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/m.a.j.-zondervan-zwijnenburg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A.I., Becht</title>
@@ -49,14 +81,6 @@
       <link>/authors/j.s.-richards/</link>
       <pubDate>Wed, 12 Aug 2020 13:34:35 +0200</pubDate>
       <guid>/authors/j.s.-richards/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M.A.J. Zondervan-Zwijnenburg</title>
-      <link>/authors/m.a.j.-zondervan-zwijnenburg/</link>
-      <pubDate>Wed, 12 Aug 2020 13:34:35 +0200</pubDate>
-      <guid>/authors/m.a.j.-zondervan-zwijnenburg/</guid>
       <description></description>
     </item>
     
@@ -113,30 +137,6 @@
       <link>/authors/e.-van-bergen/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/e.-van-bergen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>I.L. Hulshof</title>
-      <link>/authors/i.l.-hulshof/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/i.l.-hulshof/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L.E. van Zyl</title>
-      <link>/authors/l.e.-van-zyl/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/l.e.-van-zyl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L.R. Dickens</title>
-      <link>/authors/l.r.-dickens/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/l.r.-dickens/</guid>
       <description></description>
     </item>
     
