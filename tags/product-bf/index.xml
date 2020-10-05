@@ -40,7 +40,7 @@
 
 
 &lt;video controls &gt;
-  &lt;source src=&#34;/img/video_RS.mp4&#34; type=&#34;video/mp4&#34;&gt;
+  &lt;source src=&#34;/img/video_RS.mpg&#34; type=&#34;video/mpg&#34;&gt;
 &lt;/video&gt;&lt;/p&gt;
 </description>
     </item>
