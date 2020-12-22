@@ -5,12 +5,116 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>D.I. Boomsma</title>
+      <link>/authors/d.i.-boomsma/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/d.i.-boomsma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Blok</title>
+      <link>/authors/e.-blok/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/e.-blok/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Willemsen</title>
+      <link>/authors/g.-willemsen/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/g.-willemsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Bartels</title>
+      <link>/authors/m.-bartels/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-bartels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Fakkel</title>
+      <link>/authors/m.-fakkel/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-fakkel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Peeters</title>
+      <link>/authors/m.-peeters/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-peeters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Van der Meulen</title>
+      <link>/authors/m.-van-der-meulen/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/m.-van-der-meulen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M.A.J. Zondervan-Zwijnenburg</title>
+      <link>/authors/m.a.j.-zondervan-zwijnenburg/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/m.a.j.-zondervan-zwijnenburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Lugtig</title>
+      <link>/authors/p.-lugtig/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/p.-lugtig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Branje</title>
+      <link>/authors/s.-branje/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-branje/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S.T. Kevenaar</title>
+      <link>/authors/s.t.-kevenaar/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/s.t.-kevenaar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. White</title>
+      <link>/authors/t.-white/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/t.-white/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W.A.M. Vollebergh</title>
+      <link>/authors/w.a.m.-vollebergh/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/w.a.m.-vollebergh/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>I.L. Hulshof</title>
@@ -37,14 +141,6 @@
     </item>
     
     <item>
-      <title>M.A.J. Zondervan-Zwijnenburg</title>
-      <link>/authors/m.a.j.-zondervan-zwijnenburg/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/m.a.j.-zondervan-zwijnenburg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A.I., Becht</title>
       <link>/authors/a.i.-becht/</link>
       <pubDate>Wed, 12 Aug 2020 13:34:35 +0200</pubDate>
@@ -61,14 +157,6 @@
     </item>
     
     <item>
-      <title>D.I., Boomsma</title>
-      <link>/authors/d.i.-boomsma/</link>
-      <pubDate>Wed, 12 Aug 2020 13:34:35 +0200</pubDate>
-      <guid>/authors/d.i.-boomsma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>H.J.A., Hoijtink</title>
       <link>/authors/h.j.a.-hoijtink/</link>
       <pubDate>Wed, 12 Aug 2020 13:34:35 +0200</pubDate>
@@ -81,22 +169,6 @@
       <link>/authors/j.s.-richards/</link>
       <pubDate>Wed, 12 Aug 2020 13:34:35 +0200</pubDate>
       <guid>/authors/j.s.-richards/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S., Branje</title>
-      <link>/authors/s.-branje/</link>
-      <pubDate>Wed, 12 Aug 2020 13:34:35 +0200</pubDate>
-      <guid>/authors/s.-branje/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S.T. Kevenaar</title>
-      <link>/authors/s.t.-kevenaar/</link>
-      <pubDate>Wed, 12 Aug 2020 13:34:35 +0200</pubDate>
-      <guid>/authors/s.t.-kevenaar/</guid>
       <description></description>
     </item>
     
@@ -298,14 +370,6 @@
       <link>/authors/k.-lek/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>/authors/k.-lek/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M., Peeters</title>
-      <link>/authors/m.-peeters/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/m.-peeters/</guid>
       <description></description>
     </item>
     

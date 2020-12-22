@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>D.I., Boomsma | Marielle Zondervan-Zwijnenburg</title>
+    <title>D.I. Boomsma | Marielle Zondervan-Zwijnenburg</title>
     <link>/authors/d.i.-boomsma/</link>
       <atom:link href="/authors/d.i.-boomsma/index.xml" rel="self" type="application/rss+xml" />
-    <description>D.I., Boomsma</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Aug 2020 13:34:35 +0200</lastBuildDate>
+    <description>D.I. Boomsma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>D.I., Boomsma</title>
+      <title>D.I. Boomsma</title>
       <link>/authors/d.i.-boomsma/</link>
     </image>
+    
+    <item>
+      <title>Testing sampling bias in estimates of adolescent social competence and behavioral control</title>
+      <link>/publication/fakkel-2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/fakkel-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Robust longitudinal multi-cohort results: The development of self-control during adolescence</title>
