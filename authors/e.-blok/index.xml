@@ -5,12 +5,20 @@
     <link>/authors/e.-blok/</link>
       <atom:link href="/authors/e.-blok/index.xml" rel="self" type="application/rss+xml" />
     <description>E. Blok</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>E. Blok</title>
       <link>/authors/e.-blok/</link>
     </image>
+    
+    <item>
+      <title>Bayesian evidence synthesis in case of multi-cohort datasets: An illustration by multi-informant differences in self-control</title>
+      <link>/publication/kevenaar-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/kevenaar-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Testing sampling bias in estimates of adolescent social competence and behavioral control</title>

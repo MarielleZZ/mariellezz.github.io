@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>M. Fakkel | Marielle Zondervan-Zwijnenburg</title>
-    <link>/authors/m.-fakkel/</link>
-      <atom:link href="/authors/m.-fakkel/index.xml" rel="self" type="application/rss+xml" />
-    <description>M. Fakkel</description>
+    <title>N.C. Onland-Moret | Marielle Zondervan-Zwijnenburg</title>
+    <link>/authors/n.c.-onland-moret/</link>
+      <atom:link href="/authors/n.c.-onland-moret/index.xml" rel="self" type="application/rss+xml" />
+    <description>N.C. Onland-Moret</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>M. Fakkel</title>
-      <link>/authors/m.-fakkel/</link>
+      <title>N.C. Onland-Moret</title>
+      <link>/authors/n.c.-onland-moret/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/kevenaar-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/publication/kevenaar-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Testing sampling bias in estimates of adolescent social competence and behavioral control</title>
-      <link>/publication/fakkel-2020/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/fakkel-2020/</guid>
       <description></description>
     </item>
     
