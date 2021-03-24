@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Veen | Marielle Zondervan-Zwijnenburg</title>
+    <link>/authors/d.-veen/</link>
+      <atom:link href="/authors/d.-veen/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Veen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>D. Veen</title>
+      <link>/authors/d.-veen/</link>
+    </image>
+    
+    <item>
+      <title>Systematically Defined Informative Priors in Bayesian Estimation: An Empirical Application on the Transmission of Internalizing Symptoms Through Mother-Adolescent Interaction Behavior</title>
+      <link>/publication/schulz-2021/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/schulz-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

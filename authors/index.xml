@@ -5,12 +5,68 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>A.J. Oldehinkel</title>
+      <link>/authors/a.j.-oldehinkel/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/a.j.-oldehinkel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Veen</title>
+      <link>/authors/d.-veen/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/d.-veen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M.A.J. Zondervan-Zwijnenburg</title>
+      <link>/authors/m.a.j.-zondervan-zwijnenburg/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/m.a.j.-zondervan-zwijnenburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Branje</title>
+      <link>/authors/s.-branje/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-branje/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Schulz</title>
+      <link>/authors/s.-schulz/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-schulz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S.A. Nelemans</title>
+      <link>/authors/s.a.-nelemans/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/s.a.-nelemans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W. Meeus</title>
+      <link>/authors/w.-meeus/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/w.-meeus/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>L.E. van Zyl</title>
@@ -21,26 +77,10 @@
     </item>
     
     <item>
-      <title>M.A.J. Zondervan-Zwijnenburg</title>
-      <link>/authors/m.a.j.-zondervan-zwijnenburg/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/m.a.j.-zondervan-zwijnenburg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>S. Rothmann</title>
       <link>/authors/s.-rothmann/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>/authors/s.-rothmann/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A.J. Oldehinkel</title>
-      <link>/authors/a.j.-oldehinkel/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/authors/a.j.-oldehinkel/</guid>
       <description></description>
     </item>
     
@@ -157,14 +197,6 @@
     </item>
     
     <item>
-      <title>S. Branje</title>
-      <link>/authors/s.-branje/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/s.-branje/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>T. White</title>
       <link>/authors/t.-white/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
@@ -217,14 +249,6 @@
       <link>/authors/j.s.-richards/</link>
       <pubDate>Wed, 12 Aug 2020 13:34:35 +0200</pubDate>
       <guid>/authors/j.s.-richards/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>W., Meeus</title>
-      <link>/authors/w.-meeus/</link>
-      <pubDate>Wed, 12 Aug 2020 13:34:35 +0200</pubDate>
-      <guid>/authors/w.-meeus/</guid>
       <description></description>
     </item>
     
@@ -322,14 +346,6 @@
       <link>/authors/h.-tiemeier/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/authors/h.-tiemeier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S.A. Nelemans</title>
-      <link>/authors/s.a.-nelemans/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/s.a.-nelemans/</guid>
       <description></description>
     </item>
     
