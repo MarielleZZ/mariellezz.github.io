@@ -423,22 +423,12 @@
   </url>
   
   <url>
-    <loc>/authors/margot-peeters/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/zondervan-2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/rens-van-de-schoot/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sarah-depaoli/</loc>
+    <loc>/authors/s.-depaoli/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -458,12 +448,7 @@
   </url>
   
   <url>
-    <loc>/authors/diederick-stoel/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/duco-veen/</loc>
+    <loc>/authors/d.-stoel/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -484,11 +469,6 @@
   
   <url>
     <loc>/publication/veen-2017/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/s.-depaoli/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -564,6 +544,11 @@
   
   <url>
     <loc>/authors/nancy-e-van-loey/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rens-van-de-schoot/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
