@@ -2,8 +2,8 @@
   "name": "Marielle Zondervan-Zwijnenburg",
   "short_name": "Marielle Zondervan-Zwijnenburg",
   "lang": "en-us",
-  "theme_color": "#4caf50",
-  "background_color": "#4caf50",
+  "theme_color": "#795548",
+  "background_color": "#795548",
   "icons": [{
     "src": "/images/icon_hubfdab64caa0391a0e96547a377fc66e4_42260_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
